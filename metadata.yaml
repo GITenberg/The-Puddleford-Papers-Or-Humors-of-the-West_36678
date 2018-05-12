@@ -1,0 +1,31 @@
+_repo: The-Puddleford-Papers-Or-Humors-of-the-West_36678
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Riley, Henry Hiram
+    aliases:
+    - Oakleaf, Simon
+    - Riley, H. H. (Henry Hiram)
+    birthdate: 1813
+    deathdate: 1888
+    gutenberg_agent_id: '38420'
+    url: http://www.gutenberg.org/2009/agents/38420
+description: ''
+gutenberg_issued: '2011-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36678'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- United States -- Fiction'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Humorous stories'
+title: The Puddleford Papers; Or, Humors of the West
+url: http://www.gutenberg.org/ebooks/36678
